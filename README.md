@@ -7,7 +7,7 @@ Open to **remote Data Engineering internships**.
 ## 🔭 What I'm building
 
 - **[Open-Data ETL Pipeline](https://github.com/dxhanjay/open-data-etl-pipeline)** — a complete ETL pipeline for Delhi weather data: Open-Meteo API extraction → pandas cleaning with data-quality checks → SQLite with idempotent upsert loads → 10 SQL analysis queries (GROUP BY, CTEs, LAG, rolling averages, RANK), with documented findings and a one-command runner.
-- **PlacePrep AI** — my final-year major project: a real-time AI mock interview & resume analyzer platform (Next.js, FastAPI, PostgreSQL). Sprint 1 built — JWT auth, protected dashboard, database schema; ATS scoring and AI mock-interview modules in progress.
+- **[PlacePrep AI](https://github.com/dxhanjay/PlacePrep-AI)** — my final-year major project: a real-time AI mock interview & resume analyzer platform (Next.js, FastAPI, PostgreSQL). Sprint 1 built — JWT auth, protected dashboard, database schema; ATS scoring and AI mock-interview modules in progress.
 
 ## 🛠️ Skills
 
