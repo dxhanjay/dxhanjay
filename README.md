@@ -10,9 +10,9 @@ Aspiring **Data Engineer** — I build ETL pipelines and data-backed application
 Real-time AI mock interview & resume analyzer platform — my final-year major project, **deployed and live**:
 **[placeprep-ai-cyan.vercel.app](https://placeprep-ai-cyan.vercel.app)**
 - JWT auth → resume PDF upload → **ATS score against any real job description** (matched/missing skills, keyword breakdown)
-- **Mock interviews** in 4 tracks (Data Engineering, Python+SQL, DSA, HR) with instant per-answer scoring
-- **Readiness score** blending resume + interview performance · Data persisted in Supabase Postgres
-- Stack: Next.js · FastAPI · PostgreSQL (Supabase) · Vercel — Sprints 1–4 complete
+- **Mock interviews** in 4 tracks (Data Engineering, Python+SQL, DSA, HR) with instant per-answer scoring — plus **voice mode**: questions read aloud, answers dictated (Web Speech API)
+- **Readiness score** blending resume + interview performance · **Analytics** (score trend, recurring gaps) · TPO cohort view · Data persisted in Supabase Postgres
+- Stack: Next.js · FastAPI · PostgreSQL (Supabase) · Vercel — Sprints 1–5 complete
 
 ### [Open-Data ETL Pipeline](https://github.com/dxhanjay/open-data-etl-pipeline)
 A complete, reproducible ETL pipeline for Delhi weather data:
@@ -20,6 +20,13 @@ A complete, reproducible ETL pipeline for Delhi weather data:
 - **Transform:** pandas cleaning under explicit rules + data-quality checks (duplicates, gaps, ranges — fail loudly)
 - **Load:** idempotent upserts into **SQLite and PostgreSQL** (re-runs add zero duplicates — verified)
 - **Analyse:** 10 SQL queries — GROUP BY, CTEs, LAG, rolling averages, RANK (window functions) — findings documented in the repo
+
+### [Earthquake ETL Pipeline](https://github.com/dxhanjay/earthquake-etl-pipeline) — LIVE DASHBOARD
+An end-to-end ETL pipeline on live USGS earthquake data (M2.5+, past week):
+**[earthquake-etl.vercel.app](https://earthquake-etl.vercel.app)**
+- **Extract:** USGS GeoJSON feed → raw layer · **Transform:** pandas + explicit data-quality checks (caught and removed a non-earthquake "explosion" event)
+- **Load:** SQLite with idempotent upserts on the USGS event id — re-runs add zero duplicates (verified)
+- **Analyse & present:** 8 SQL queries (strongest, deepest, most-felt, regional patterns) → self-contained HTML dashboard generated from the database
 
 ## 🛠️ Skills
 
