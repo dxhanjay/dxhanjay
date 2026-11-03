@@ -27,6 +27,14 @@ An end-to-end ETL pipeline on live USGS earthquake data (M2.5+, past week):
 - **Extract:** USGS GeoJSON feed → raw layer · **Transform:** pandas + explicit data-quality checks (caught and removed a non-earthquake "explosion" event)
 - **Load:** SQLite with idempotent upserts on the USGS event id — re-runs add zero duplicates (verified)
 - **Analyse & present:** 8 SQL queries (strongest, deepest, most-felt, regional patterns) → self-contained HTML dashboard generated from the database
+- **Historical mode:** USGS FDSN archive backfill in ≤31-day chunks, deduped by event id — October 2026 backfilled to 2,127 events (strongest: M7.7, Panama)
+
+### [Live AQI Dashboard](https://github.com/dxhanjay/live-aqi-dashboard) — LIVE
+A real-time air-quality ETL pipeline for 12 Indian cities, built to track the Diwali 2026 pollution build-up:
+**[live-aqi-dashboard-dun.vercel.app](https://live-aqi-dashboard-dun.vercel.app)**
+- **Extract:** Open-Meteo (CAMS) hourly PM2.5/PM10 → **Transform:** pandas + data-quality checks, with **Indian AQI computed from the official CPCB breakpoint formula** (not a black-box API number)
+- **Load:** SQLite with idempotent upserts on (city, timestamp) — re-runs add zero duplicates (verified)
+- **Present:** live dashboard — featured-city panel, CPCB scale bar, worst→cleanest ranking, and a location-aware "Your area" view that finds the nearest tracked city or fetches live AQI for your exact coordinates
 
 ## 🛠️ Skills
 
