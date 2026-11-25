@@ -1,1 +1,78 @@
-IyBIaSwgSSdtIERoYW5hbmpveSBNYWhhdG8g8J+RiwoKKipGaW5hbC1ZZWFyIEJUZWNoIENTRSBAIEdEIEdvZW5rYSBVbml2ZXJzaXR5LCBHdXJ1Z3JhbSAoQ2xhc3Mgb2YgMjAyNykqKgpBc3BpcmluZyAqKkRhdGEgRW5naW5lZXIqKiDigJQgSSBidWlsZCBFVEwgcGlwZWxpbmVzIGFuZCBkYXRhLWJhY2tlZCBhcHBsaWNhdGlvbnMgd2l0aCBQeXRob24gYW5kIFNRTC4K8J+foiAqKk9wZW4gdG8gcmVtb3RlIERhdGEgRW5naW5lZXJpbmcgaW50ZXJuc2hpcHMqKiAoSW5kaWEgLyB3b3JsZHdpZGUpCgojIyDwn5qAIEZlYXR1cmVkIFByb2plY3RzCgojIyMgW1BsYWNlUHJlcCBBSV0oaHR0cHM6Ly9naXRodWIuY29tL2R4aGFuamF5L1BsYWNlUHJlcC1BSSkg4oCUIExJVkUKUmVhbC10aW1lIEFJIG1vY2sgaW50ZXJ2aWV3ICYgcmVzdW1lIGFuYWx5emVyIHBsYXRmb3JtIOKAlCBteSBmaW5hbC15ZWFyIG1ham9yIHByb2plY3QsICoqZGVwbG95ZWQgYW5kIGxpdmUqKjoKKipbcGxhY2VwcmVwLWFpLWN5YW4udmVyY2VsLmFwcF0oaHR0cHM6Ly9wbGFjZXByZXAtYWktY3lhbi52ZXJjZWwuYXBwKSoqCi0gSldUIGF1dGgg4oaSIHJlc3VtZSBQREYgdXBsb2FkIOKGkiAqKkFUUyBzY29yZSBhZ2FpbnN0IGFueSByZWFsIGpvYiBkZXNjcmlwdGlvbioqIChtYXRjaGVkL21pc3Npbmcgc2tpbGxzLCBrZXl3b3JkIGJyZWFrZG93bikKLSAqKk1vY2sgaW50ZXJ2aWV3cyoqIGluIDQgdHJhY2tzIChEYXRhIEVuZ2luZWVyaW5nLCBQeXRob24rU1FMLCBEU0EsIEhSKSB3aXRoIGluc3RhbnQgcGVyLWFuc3dlciBzY29yaW5nIOKAlCBwbHVzICoqdm9pY2UgbW9kZSoqOiBxdWVzdGlvbnMgcmVhZCBhbG91ZCwgYW5zd2VycyBkaWN0YXRlZCAoV2ViIFNwZWVjaCBBUEkpCi0gKipSZWFkaW5lc3Mgc2NvcmUqKiBibGVuZGluZyByZXN1bWUgKyBpbnRlcnZpZXcgcGVyZm9ybWFuY2UgwrcgKipBbmFseXRpY3MqKiAoc2NvcmUgdHJlbmQsIHJlY3VycmluZyBnYXBzKSDCtyBUUE8gY29ob3J0IHZpZXcgwrcgRGF0YSBwZXJzaXN0ZWQgaW4gU3VwYWJhc2UgUG9zdGdyZXMKLSBTdGFjazogTmV4dC5qcyDCtyBGYXN0QVBJIMK3IFBvc3RncmVTUUwgKFN1cGFiYXNlKSDCtyBWZXJjZWwg4oCUIFNwcmludHMgMeKAkzUgY29tcGxldGUKCiMjIyBbT3Blbi1EYXRhIEVUTCBQaXBlbGluZV0oaHR0cHM6Ly9naXRodWIuY29tL2R4aGFuamF5L29wZW4tZGF0YS1ldGwtcGlwZWxpbmUpCkEgY29tcGxldGUsIHJlcHJvZHVjaWJsZSBFVEwgcGlwZWxpbmUgZm9yIERlbGhpIHdlYXRoZXIgZGF0YToKLSAqKkV4dHJhY3Q6KiogT3Blbi1NZXRlbyBBUEkg4oaSIHVudG91Y2hlZCByYXcgbGF5ZXIgKDE2OCBob3VybHkgcmVjb3JkcyBwZXIgcnVuKQotICoqVHJhbnNmb3JtOioqIHBhbmRhcyBjbGVhbmluZyB1bmRlciBleHBsaWNpdCBydWxlcyArIGRhdGEtcXVhbGl0eSBjaGVja3MgKGR1cGxpY2F0ZXMsIGdhcHMsIHJhbmdlcyDigJQgZmFpbCBsb3VkbHkpCi0gKipMb2FkOioqIGlkZW1wb3RlbnQgdXBzZXJ0cyBpbnRvICoqU1FMaXRlIGFuZCBQb3N0Z3JlU1FMKiogKHJlLXJ1bnMgYWRkIHplcm8gZHVwbGljYXRlcyDigJQgdmVyaWZpZWQpCi0gKipBbmFseXNlOioqIDEwIFNRTCBxdWVyaWVzIOKAlCBHUk9VUCBCWSwgQ1RFcywgTEFHLCByb2xsaW5nIGF2ZXJhZ2VzLCBSQU5LICh3aW5kb3cgZnVuY3Rpb25zKSDigJQgZmluZGluZ3MgZG9jdW1lbnRlZCBpbiB0aGUgcmVwbwoKIyMjIFtFYXJ0aHF1YWtlIEVUTCBQaXBlbGluZV0oaHR0cHM6Ly9naXRodWIuY29tL2R4aGFuamF5L2VhcnRocXVha2UtZXRsLXBpcGVsaW5lKSDigJQgTElWRSBEQVNIQk9BUkQKQW4gZW5kLXRvLWVuZCBFVEwgcGlwZWxpbmUgb24gbGl2ZSBVU0dTIGVhcnRocXVha2UgZGF0YSAoTTIuNSssIHBhc3Qgd2Vlayk6CioqW2VhcnRocXVha2UtZXRsLnZlcmNlbC5hcHBdKGh0dHBzOi8vZWFydGhxdWFrZS1ldGwudmVyY2VsLmFwcCkqKgotICoqRXh0cmFjdDoqKiBVU0dTIEdlb0pTT04gZmVlZCDihpIgcmF3IGxheWVyIMK3ICoqVHJhbnNmb3JtOioqIHBhbmRhcyArIGV4cGxpY2l0IGRhdGEtcXVhbGl0eSBjaGVja3MgKGNhdWdodCBhbmQgcmVtb3ZlZCBhIG5vbi1lYXJ0aHF1YWtlICJleHBsb3Npb24iIGV2ZW50KQotICoqTG9hZDoqKiBTUUxpdGUgd2l0aCBpZGVtcG90ZW50IHVwc2VydHMgb24gdGhlIFVTR1MgZXZlbnQgaWQg4oCUIHJlLXJ1bnMgYWRkIHplcm8gZHVwbGljYXRlcyAodmVyaWZpZWQpCi0gKipBbmFseXNlICYgcHJlc2VudDoqKiA4IFNRTCBxdWVyaWVzIChzdHJvbmdlc3QsIGRlZXBlc3QsIG1vc3QtZmVsdCwgcmVnaW9uYWwgcGF0dGVybnMpIOKGkiBzZWxmLWNvbnRhaW5lZCBIVE1MIGRhc2hib2FyZCBnZW5lcmF0ZWQgZnJvbSB0aGUgZGF0YWJhc2UKLSAqKkhpc3RvcmljYWwgbW9kZToqKiBVU0dTIEZEU04gYXJjaGl2ZSBiYWNrZmlsbCBpbiDiiaQzMS1kYXkgY2h1bmtzLCBkZWR1cGVkIGJ5IGV2ZW50IGlkIOKAlCBPY3RvYmVyIDIwMjYgYmFja2ZpbGxlZCB0byAyLDEyNyBldmVudHMgKHN0cm9uZ2VzdDogTTcuNywgUGFuYW1hKQoKIyMjIFtMaXZlIEFRSSBEYXNoYm9hcmRdKGh0dHBzOi8vZ2l0aHViLmNvbS9keGhhbmpheS9saXZlLWFxaS1kYXNoYm9hcmQpIOKAlCBMSVZFCkEgcmVhbC10aW1lIGFpci1xdWFsaXR5IEVUTCBwaXBlbGluZSBmb3IgMTIgSW5kaWFuIGNpdGllcywgYnVpbHQgdG8gdHJhY2sgdGhlIERpd2FsaSAyMDI2IHBvbGx1dGlvbiBidWlsZC11cDoKKipbbGl2ZS1hcWktZGFzaGJvYXJkLWR1bi52ZXJjZWwuYXBwXShodHRwczovL2xpdmUtYXFpLWRhc2hib2FyZC1kdW4udmVyY2VsLmFwcCkqKgotICoqRXh0cmFjdDoqKiBPcGVuLU1ldGVvIChDQU1TKSBob3VybHkgUE0yLjUvUE0xMCDihpIgKipUcmFuc2Zvcm06KiogcGFuZGFzICsgZGF0YS1xdWFsaXR5IGNoZWNrcywgd2l0aCAqKkluZGlhbiBBUUkgY29tcHV0ZWQgZnJvbSB0aGUgb2ZmaWNpYWwgQ1BDQiBicmVha3BvaW50IGZvcm11bGEqKiAobm90IGEgYmxhY2stYm94IEFQSSBudW1iZXIpCi0gKipMb2FkOioqIFNRTGl0ZSB3aXRoIGlkZW1wb3RlbnQgdXBzZXJ0cyBvbiAoY2l0eSwgdGltZXN0YW1wKSDigJQgcmUtcnVucyBhZGQgemVybyBkdXBsaWNhdGVzICh2ZXJpZmllZCkKLSAqKlByZXNlbnQ6KiogbGl2ZSBkYXNoYm9hcmQg4oCUIGZlYXR1cmVkLWNpdHkgcGFuZWwsIENQQ0Igc2NhbGUgYmFyLCB3b3JzdOKGkmNsZWFuZXN0IHJhbmtpbmcsIGFuZCBhIGxvY2F0aW9uLWF3YXJlICJZb3VyIGFyZWEiIHZpZXcgdGhhdCBmaW5kcyB0aGUgbmVhcmVzdCB0cmFja2VkIGNpdHkgb3IgZmV0Y2hlcyBsaXZlIEFRSSBmb3IgeW91ciBleGFjdCBjb29yZGluYXRlcwoKIyMg8J+boO+4jyBTa2lsbHMKCiFbUHl0aG9uXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1B5dGhvbi0zNzc2QUI/c3R5bGU9ZmxhdCZsb2dvPXB5dGhvbiZsb2dvQ29sb3I9d2hpdGUpCiFbU1FMXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1NRTC00NDc5QTE/c3R5bGU9ZmxhdCZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlKQohW1BhbmRhc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QYW5kYXMtMTUwNDU4P3N0eWxlPWZsYXQmbG9nbz1wYW5kYXMmbG9nb0NvbG9yPXdoaXRlKQohW1Bvc3RncmVTUUxdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUG9zdGdyZVNRTC00MTY5RTE/c3R5bGU9ZmxhdCZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlKQohW1NRTGl0ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TUUxpdGUtMDAzQjU3P3N0eWxlPWZsYXQmbG9nbz1zcWxpdGUmbG9nb0NvbG9yPXdoaXRlKQohW0Zhc3RBUEldKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRmFzdEFQSS0wMDk2ODg/c3R5bGU9ZmxhdCZsb2dvPWZhc3RhcGkmbG9nb0NvbG9yPXdoaXRlKQohW05leHQuanNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTmV4dC5qcy0wMDAwMDA/c3R5bGU9ZmxhdCZsb2dvPW5leHRkb3RqcyZsb2dvQ29sb3I9d2hpdGUpCiFbUmVhY3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVhY3QtNjFEQUZCP3N0eWxlPWZsYXQmbG9nbz1yZWFjdCZsb2dvQ29sb3I9YmxhY2spCiFbSmF2YVNjcmlwdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KYXZhU2NyaXB0LUY3REYxRT9zdHlsZT1mbGF0JmxvZ289amF2YXNjcmlwdCZsb2dvQ29sb3I9YmxhY2spCiFbSmF2YV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KYXZhLUVEOEIwMD9zdHlsZT1mbGF0JmxvZ289b3BlbmpkayZsb2dvQ29sb3I9d2hpdGUpCiFbR2l0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdC1GMDUwMzI/c3R5bGU9ZmxhdCZsb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUpCgojIyDwn5OMIE90aGVyIFByb2plY3RzCgotICoqW0ludm9pY2VGbG93XShodHRwczovL2dpdGh1Yi5jb20vZHhoYW5qYXkvaW52b2ljZWZsb3cpKiog4oCUIHByb2Zlc3Npb25hbCBpbnZvaWNlIGdlbmVyYXRvciB3aXRoIGxpdmUgcHJldmlldywgUERGIGV4cG9ydCBhbmQgbG9jYWwgcGVyc2lzdGVuY2UgKE5leHQuanMsIFR5cGVTY3JpcHQsIFRhaWx3aW5kKQotICoqW0ltYWdlIENvbG9yaXphdGlvbl0oaHR0cHM6Ly9naXRodWIuY29tL2R4aGFuamF5L0ltYWdlLWNvbG9yaXphdGlvbi0pKiog4oCUIGRlZXAtbGVhcm5pbmcgbW9kZWwgKFB5dGhvbiwgT3BlbkNWLCBUZW5zb3JGbG93KSB0aGF0IGNvbG9yaXplcyBncmF5c2NhbGUgaW1hZ2VzCi0gKipbTmV0ZmxpeCBVSSBDbG9uZV0oaHR0cHM6Ly9naXRodWIuY29tL2R4aGFuamF5L05ldGZsaXgtcHJvamVjdCkqKiDigJQgc3RyZWFtaW5nIFVJIGluIEhUTUwvQ1NTL0phdmFTY3JpcHQgd2l0aCBUTURCIEFQSSBkYXRhCgojIyDwn4yxIEN1cnJlbnRseSBEZWVwZW5pbmcKClNRTCAod2luZG93IGZ1bmN0aW9ucywgZGF0YSBtb2RlbGxpbmcpIOKGkiBFVEwgZGVzaWduIHBhdHRlcm5zIOKGkiBTcGFyayAmIEFpcmZsb3cgKG5leHQpIMK3IERTQSBpbiBQeXRob24gb24gTGVldENvZGUgwrcgUHJlcGFyaW5nIGZvciBHQVRFIDIwMjggKENTKQoKIyMg8J+TiiBHaXRIdWIgU3RhdHMKCiFbRGhhbmFuam95J3MgR2l0SHViIHN0YXRzXShodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9ZHhoYW5qYXkmc2hvd19pY29ucz10cnVlJnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSkKIVtUb3AgbGFuZ3VhZ2VzXShodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzLz91c2VybmFtZT1keGhhbmpheSZsYXlvdXQ9Y29tcGFjdCZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUpCgojIyDwn5OrIENvbm5lY3QKClshW0xpbmtlZEluXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpbmtlZEluLTBBNjZDMj9zdHlsZT1mbGF0JmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2RoYW5hbmpveS1tYWhhdG8tMzAzNDYyMjcyKQpbIVtMZWV0Q29kZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MZWV0Q29kZS1GRkExMTY/c3R5bGU9ZmxhdCZsb2dvPWxlZXRjb2RlJmxvZ29Db2xvcj1ibGFjayldKGh0dHBzOi8vbGVldGNvZGUuY29tL3UvZGhhbmFuamF5ODEpCg==
+# Dhananjoy Mahato
+
+**Final-Year BTech CSE, GD Goenka University, Gurugram (Class of 2027)**
+**Aspiring Data Engineer** — I build ETL pipelines and data-backed applications with Python and SQL.
+
+Open to remote Data Engineering internships (India / worldwide).
+
+---
+
+## About
+
+Final-year Computer Science student focused on data engineering. I design end-to-end pipelines — extraction from APIs and live feeds, transformation and data-quality checks in pandas, idempotent loads into SQLite and PostgreSQL, and SQL analysis — and I ship them as live dashboards and web applications. My final-year major project, PlacePrep AI, is deployed and in use.
+
+## Technical Skills
+
+| Area | Skills |
+| --- | --- |
+| Languages | Python, SQL, Java, JavaScript, TypeScript |
+| Data Engineering | ETL pipeline design, pandas, data-quality checks, data modelling, idempotent loads |
+| Databases | PostgreSQL, SQLite |
+| Web Development | FastAPI, Next.js, React, Tailwind CSS |
+| Tools | Git, GitHub, Vercel |
+
+## Featured Projects
+
+### [PlacePrep AI](https://github.com/dxhanjay/PlacePrep-AI) — Real-Time AI Mock Interview & Resume Analyzer
+Final-year major project, deployed and live: [placeprep-ai-cyan.vercel.app](https://placeprep-ai-cyan.vercel.app)
+
+- JWT authentication, resume PDF upload, and an ATS score against any pasted job description, with matched and missing skills shown per resume
+- Mock interviews in four tracks (Data Engineering, Python + SQL, DSA, HR) with per-answer scoring, plus a voice mode built on the Web Speech API
+- A readiness score blending resume and interview performance, an analytics view (score trend, recurring gaps), and a role-guarded TPO cohort view
+- Stack: Next.js, FastAPI, PostgreSQL (Supabase), Vercel — Sprints 1–5 complete, data persisted in Supabase
+
+### [Open-Data ETL Pipeline](https://github.com/dxhanjay/open-data-etl-pipeline)
+A complete, reproducible ETL pipeline for Delhi weather data.
+
+- **Extract:** Open-Meteo API into an untouched raw layer (168 hourly records per run)
+- **Transform:** pandas cleaning under explicit rules, with data-quality checks for duplicates, gaps and ranges that fail loudly
+- **Load:** idempotent upserts into SQLite and PostgreSQL — re-runs add zero duplicates (verified)
+- **Analyse:** 10 SQL queries using GROUP BY, CTEs, LAG, rolling averages and RANK window functions, with findings documented in the repository
+
+### [Earthquake ETL Pipeline](https://github.com/dxhanjay/earthquake-etl-pipeline)
+An end-to-end ETL pipeline on live USGS earthquake data (M2.5+), with a live dashboard: [earthquake-etl.vercel.app](https://earthquake-etl.vercel.app)
+
+- **Extract:** USGS GeoJSON feed into a raw layer; **Transform:** pandas with explicit data-quality checks (a non-earthquake "explosion" event was caught and removed)
+- **Load:** SQLite with idempotent upserts on the USGS event id — re-runs add zero duplicates (verified)
+- **Analyse and present:** 8 SQL queries (strongest, deepest, most-felt, regional patterns) rendered into a self-contained HTML dashboard generated from the database
+- **Historical mode:** USGS FDSN archive backfill in ≤31-day chunks, deduplicated by event id — October 2026 backfilled to 2,127 events (strongest: M7.7, Panama)
+
+### [Live AQI Dashboard](https://github.com/dxhanjay/live-aqi-dashboard)
+A real-time air-quality ETL pipeline for 12 Indian cities, live at [live-aqi-dashboard-dun.vercel.app](https://live-aqi-dashboard-dun.vercel.app)
+
+- **Extract:** Open-Meteo (CAMS) hourly PM2.5/PM10; **Transform:** pandas with data-quality checks, and Indian AQI computed from the official CPCB breakpoint formula rather than a black-box API number
+- **Load:** SQLite with idempotent upserts on (city, timestamp) — re-runs add zero duplicates (verified)
+- **Present:** live dashboard with a featured-city panel, CPCB scale bar, worst-to-cleanest ranking, and a location-aware view that finds the nearest tracked city or fetches live AQI for exact coordinates
+
+## Additional Projects
+
+- **[InvoiceFlow](https://github.com/dxhanjay/invoiceflow)** — professional invoice generator with live A4 preview, vector PDF export and local persistence (Next.js, TypeScript, Tailwind). Live: [invoiceflow-smoky.vercel.app](https://invoiceflow-smoky.vercel.app)
+- **[Image Colorization](https://github.com/dxhanjay/Image-colorization-)** — deep-learning model that colourises grayscale images (Python, OpenCV, TensorFlow)
+- **[Netflix UI Clone](https://github.com/dxhanjay/Netflix-project)** — streaming interface built with HTML, CSS and JavaScript using TMDB API data
+
+## Experience
+
+**Project Trainee — Steel Authority of India Limited (SAIL), Bokaro Steel Plant** · May – Jul 2026
+Completed 8 weeks of practical training (11 May – 3 Jul 2026). Built a static web page using HTML and CSS as the training project. Overall performance assessed as "GOOD".
+
+## Currently
+
+- Deepening SQL (window functions, data modelling) and ETL design patterns; Spark and Airflow are next on the learning path
+- Daily DSA practice in Python on LeetCode (1 SQL + 1 DSA problem a day)
+- Preparing for GATE 2028 (Computer Science)
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/dhananjoy-mahato-303462272](https://www.linkedin.com/in/dhananjoy-mahato-303462272)
+- LeetCode: [leetcode.com/u/dhananjay81](https://leetcode.com/u/dhananjay81)
+- Email: dhananjoy377@gmail.com
